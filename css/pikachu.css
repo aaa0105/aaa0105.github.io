@@ -13,7 +13,7 @@ body {
     color: #9c5200;
     position: absolute;
     top: 130px;
-    left: 440px;
+    left: 450px;
 }
 
 .circle3>h2 {
@@ -37,7 +37,7 @@ body {
     border-radius: 200px;
     position: absolute;
     top: -30px;
-    left: 320px;
+    left: 330px;
 }
 
 .title {
@@ -62,7 +62,7 @@ body {
     border-radius: 200px;
     position: absolute;
     top: 230px;
-    left: 260px;
+    left: 270px;
 }
 
 .circle2 td {
@@ -85,7 +85,7 @@ body {
     border-radius: 200px;
     position: absolute;
     top: 90px;
-    left: 760px;
+    left: 770px;
 }
 
 .circle4>img {
@@ -124,7 +124,7 @@ body {
     border-radius: 200px;
     position: absolute;
     top: 530px;
-    left: 480px;
+    left: 490px;
     font-family: 'Nunito', sans-serif, Arial;
     font-size: 8pt;
     color: #f6e652;
@@ -143,7 +143,7 @@ body {
     border-radius: 200px;
     position: absolute;
     top: 428px;
-    left: 772px;
+    left: 782px;
     font-family: 'Nunito', sans-serif, Arial;
     font-size: 10pt;
     color: #9c5200;
