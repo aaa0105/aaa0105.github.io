@@ -1,0 +1,133 @@
+ ul li {
+     float: left;
+     display: block;
+     background-color: #9A5927;
+     width: 150px;
+     text-align: center;
+     line-height: 50px;
+     font-size: 14pt;
+ }
+ 
+ ul li a {
+     color: #F9F59A;
+     text-decoration: none;
+     font-family: 'cwTeXHei', 微軟正黑體, 黑體-繁;
+ }
+ 
+ ul li ul {
+     display: none;
+ }
+ 
+ ul li:hover ul {
+     display: block;
+ }
+ 
+ ul li:hover {
+     background-color: #ba7947;
+ }
+ 
+ ul li ul li:hover {
+     background-color: #f9f59a;
+ }
+ 
+ ul li ul li:hover a {
+     color: #9A5927;
+ }
+ 
+ .list {
+     position: fixed;
+     z-index: 1;
+ }
+ 
+ .devide {
+     height: 50px;
+     background-color: #9a5927;
+     position: fixed;
+     top: 0px;
+     bottom: 0px;
+     left: 600px;
+     right: 0px;
+ }
+ 
+ article {
+     font-family: 'cwTeXHei', 微軟正黑體, 黑體-繁;
+     font-size: 12pt;
+     line-height: 24px;
+ }
+ 
+ h2 {
+     font-size: 16pt;
+     font-weight: bold;
+     color: #9A5927;
+     text-align: center;
+     padding-top: 8px;
+     border: solid #9A5927 2px;
+     height: 30px;
+     width: 380px;
+     position: relative;
+     top: 20px;
+     left: 20px;
+ }
+ 
+ #good {
+     height: 570px;
+     width: 430px;
+     background-color: #FFF2D9;
+     float: left;
+ }
+ 
+ #bad {
+     height: 570px;
+     width: 430px;
+     background-color: #FFF2D9;
+     float: left;
+     margin-left: 30px;
+ }
+ 
+ #feature {
+     height: 570px;
+     width: 430px;
+     background-color: #FFF2D9;
+     float: right;
+ }
+ 
+ h4 {
+     font-size: 14pt;
+     color: #9A5927;
+     line-height: 30px;
+     text-decoration: underline;
+ }
+ 
+ #pretty,
+ #cream,
+ #badb,
+ #fireb,
+ #france,
+ #bsweet {
+     text-align: center;
+ }
+ 
+ div>img {
+     padding-left: 165px;
+     padding-top: 40px;
+ }
+ 
+ p {
+     padding-left: 20px;
+     padding-right: 20px;
+ }
+ 
+ #designbk,
+ #start {
+     padding-left: 20px;
+ }
+ 
+ #bk>img {
+     padding-left: 250px;
+ }
+ 
+ div>a {
+     position: relative;
+     top: 20px;
+     font-family: arial;
+ }
